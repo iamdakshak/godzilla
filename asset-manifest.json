@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/iamdakshak.github.io/projects/godzilla/static/css/main.106baaae.chunk.css",
+    "main.js": "/iamdakshak.github.io/projects/godzilla/static/js/main.e617e231.chunk.js",
+    "main.js.map": "/iamdakshak.github.io/projects/godzilla/static/js/main.e617e231.chunk.js.map",
+    "runtime-main.js": "/iamdakshak.github.io/projects/godzilla/static/js/runtime-main.c753f9d6.js",
+    "runtime-main.js.map": "/iamdakshak.github.io/projects/godzilla/static/js/runtime-main.c753f9d6.js.map",
+    "static/js/2.12e176ca.chunk.js": "/iamdakshak.github.io/projects/godzilla/static/js/2.12e176ca.chunk.js",
+    "static/js/2.12e176ca.chunk.js.map": "/iamdakshak.github.io/projects/godzilla/static/js/2.12e176ca.chunk.js.map",
+    "static/js/3.6fcfb9a9.chunk.js": "/iamdakshak.github.io/projects/godzilla/static/js/3.6fcfb9a9.chunk.js",
+    "static/js/3.6fcfb9a9.chunk.js.map": "/iamdakshak.github.io/projects/godzilla/static/js/3.6fcfb9a9.chunk.js.map",
+    "index.html": "/iamdakshak.github.io/projects/godzilla/index.html",
+    "static/css/main.106baaae.chunk.css.map": "/iamdakshak.github.io/projects/godzilla/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.12e176ca.chunk.js.LICENSE.txt": "/iamdakshak.github.io/projects/godzilla/static/js/2.12e176ca.chunk.js.LICENSE.txt",
+    "static/media/godzilla.e2afcd52.png": "/iamdakshak.github.io/projects/godzilla/static/media/godzilla.e2afcd52.png",
+    "static/media/mountains.d479af55.png": "/iamdakshak.github.io/projects/godzilla/static/media/mountains.d479af55.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c753f9d6.js",
+    "static/js/2.12e176ca.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.e617e231.chunk.js"
+  ]
+}
